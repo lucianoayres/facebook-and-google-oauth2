@@ -1,5 +1,5 @@
 <br />
-<p align="center"><img src="https://user-images.githubusercontent.com/20209393/138913546-6f58708a-cc96-48ac-8fa6-c59632ed4125.png" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/20209393/138914317-0c2064f0-3741-462e-86b7-16e2fd83ed2c.png" /></p>
 
 <h2 align="center">Facebook and Google OAuth 2.0 login in Node.JS</h2>
 
@@ -18,7 +18,7 @@ Facebook and Google OAuth 2.0 login with [Node.js](https://nodejs.org) and [Pass
 Clone the project repository:
 
 ```sh
-$ git clone github.com/lucianoayres/facebook-and-google-oauth.git
+$ git clone github.com/lucianoayres/facebook-and-google-oauth2.git
 ```
 
 ### Step 2
@@ -39,4 +39,4 @@ $ npm start
 
 ## License
 
-[MIT License](https://github.com/lucianoayres/facebook-and-google-oauth/blob/main/LICENSE)
+[MIT License](https://github.com/lucianoayres/facebook-and-google-oauth2/blob/main/LICENSE)
